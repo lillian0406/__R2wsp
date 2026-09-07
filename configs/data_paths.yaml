@@ -1,0 +1,7 @@
+data_root: data
+
+raw_svs_root: data/raw_svs
+raw_rna_root: data/raw_rna
+raw_clinical_root: data/raw_clinical
+token_root: data/wsi_features
+ 
